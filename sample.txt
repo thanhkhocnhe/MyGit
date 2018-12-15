@@ -1,1 +1,2 @@
 ﻿Đến cả con khỉ cũng hiểu được lênh Git
+add: Đăng ký thay đổi trong index
