@@ -1,3 +1,4 @@
 ﻿Đến cả con khỉ cũng hiểu được lênh Git
 add: Đăng ký thay đổi trong index
+add: chắc chắn bị đụng rồi
 add: Cùng đảy sẽ bị đụng độ
